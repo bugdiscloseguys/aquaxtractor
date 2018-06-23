@@ -15,4 +15,4 @@ Just copy every text from host file of aquatone with ctrl + A and then run the s
 
 Bugdiscloseguys
 
-<img src='https://scontent.fjai1-2.fna.fbcdn.net/v/t1.0-9/36053097_2293038607590489_6616063499313348608_n.jpg?_nc_cat=0&oh=66197ea1b05420444b4fa342e2e9e218&oe=5BA1F1D5'>
+<img src='https://github.com/bugdiscloseguys/aquaxtractor/raw/master/Screen%20Shot%202018-06-23%20at%204.10.23%20PM.png'>
