@@ -4,7 +4,7 @@ print('Usage: Just copy the host file text by ctrl + A and run this script.')
 sitename = input('Please let me know the name of the site you scanned for: \n')
 ip = re.compile(r'''
 (
-(\d\d)
+(\d+)
 \.
 (\d+)
 \.
